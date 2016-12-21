@@ -1,0 +1,73 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.exquanto.com" resolutions="1x,2x" timestamp="1475601891715">
+  <folder name="css">
+    <file name="site_global.css" crc="398299528"/>
+    <file name="master_a-master.css" crc="520558876" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
+    <file name="index.css" crc="3945997248" ref="index"/>
+    <file name="nomq_index.css" crc="19915947" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
+    <file name="museutils.js" crc="3851988764" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="169177150" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
+    <file name="webpro.js" crc="4067903014" ref="index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
+    <file name="touchswipe.js" crc="474750357" ref="index"/>
+    <file name="form_check.php" crc="121412709" ref="index"/>
+    <file name="form_throttle.php" crc="4268640971" ref="index"/>
+    <file name="form_process.php" crc="444429785" ref="index"/>
+    <file name="form-u18637.php" crc="145677818" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="index"/>
+    <file name="require.js" crc="4108833657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo white background.png" crc="512077715" seo="true" ref="index"/>
+    <file name="logo white background_2x.png" crc="529539352" seo="true" ref="index"/>
+    <file name="5-chip.jpg" crc="4136268994" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="2-lasers.jpg" crc="3833880800" seo="true" ref="index"/>
+    <file name="3-alice - bob.jpg" crc="4130349720" seo="true" ref="index"/>
+    <file name="1-bec.jpg" crc="306327100" seo="true" ref="index"/>
+    <file name="4-optics table.jpg" crc="4077524716" seo="true" ref="index"/>
+    <file name="arrows-mn_arrow_left.png" crc="319312130" ref="index"/>
+    <file name="arrows-mn_arrow_right.png" crc="418741022" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u18639-17.png" crc="4127360268" ref="index"/>
+    <file name="u18639-17_2x.png" crc="368909363" ref="index"/>
+    <file name="u18639-17-r.png" crc="3800904365" ref="index"/>
+    <file name="u18639-17-r_2x.png" crc="3976535423" ref="index"/>
+    <file name="u18639-17-m.png" crc="4243175996" ref="index"/>
+    <file name="u18639-17-m_2x.png" crc="421079808" ref="index"/>
+    <file name="u18639-17-fs.png" crc="480220929" ref="index"/>
+    <file name="u18639-17-fs_2x.png" crc="3775210806" ref="index"/>
+    <file name="wigner.png" crc="4016743167" seo="true" ref="index"/>
+    <file name="wigner_2x.png" crc="4253749177" seo="true" ref="index"/>
+    <file name="u18639-172.png" crc="4127360268" ref="index"/>
+    <file name="u18639-17_2x2.png" crc="368909363" ref="index"/>
+    <file name="u18639-17-r2.png" crc="3800904365" ref="index"/>
+    <file name="u18639-17-r_2x2.png" crc="3976535423" ref="index"/>
+    <file name="u18639-17-m2.png" crc="4243175996" ref="index"/>
+    <file name="u18639-17-m_2x2.png" crc="421079808" ref="index"/>
+    <file name="u18639-17-fs2.png" crc="480220929" ref="index"/>
+    <file name="u18639-17-fs_2x2.png" crc="3775210806" ref="index"/>
+    <file name="u18639-173.png" crc="4127360268" ref="index"/>
+    <file name="u18639-17_2x3.png" crc="368909363" ref="index"/>
+    <file name="u18639-17-r3.png" crc="3800904365" ref="index"/>
+    <file name="u18639-17-r_2x3.png" crc="3976535423" ref="index"/>
+    <file name="u18639-17-m3.png" crc="4243175996" ref="index"/>
+    <file name="u18639-17-m_2x3.png" crc="421079808" ref="index"/>
+    <file name="u18639-17-fs3.png" crc="480220929" ref="index"/>
+    <file name="u18639-17-fs_2x3.png" crc="3775210806" ref="index"/>
+    <file name="arrows-u96-3-fr.png" crc="30811979" ref="index"/>
+    <file name="arrows-u88-3-fr.png" crc="4283433437" ref="index"/>
+    <file name="logo white background380x195.png" crc="4000386291" seo="true" ref="index"/>
+    <file name="logo white background380x195_2x.png" crc="3788395737" seo="true" ref="index"/>
+    <file name="logo white background265x136.png" crc="345090717" seo="true" ref="index"/>
+    <file name="logo white background265x136_2x.png" crc="52835001" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3983393887" seo="true" mt="1475601764721" redirect="true"/>
+</manifest>
