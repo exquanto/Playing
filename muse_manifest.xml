@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.exquanto.com" resolutions="1x" timestamp="1482305603464">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.exquanto.com" resolutions="1x" timestamp="1482305996643">
   <folder name="css">
     <file name="site_global.css" crc="372437060"/>
-    <file name="master_a-master.css" crc="502507698" ref="index:test-page"/>
+    <file name="master_a-master.css" crc="420711962" ref="index:test-page"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:test-page"/>
     <file name="index.css" crc="146659125" ref="index"/>
     <file name="nomq_index.css" crc="3838758092" ref="index"/>
@@ -38,6 +38,6 @@
     <file name="arrows-mn_arrow_left.png" crc="12196353" ref="index"/>
     <file name="arrows-mn_arrow_right.png" crc="4016700627" ref="index"/>
   </folder>
-  <file name="index.html" crc="3783149492" seo="true" mt="1482305601426" redirect="true"/>
+  <file name="index.html" crc="350610228" seo="true" mt="1482305994602" redirect="true"/>
   <file name="test-page.html" crc="3910594932" seo="true" mt="1482305558511" redirect="true"/>
 </manifest>
