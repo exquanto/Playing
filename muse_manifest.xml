@@ -1,24 +1,25 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.exquanto.com" resolutions="1x,2x" timestamp="1482304368511">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.exquanto.com" resolutions="1x" timestamp="1482305603464">
   <folder name="css">
     <file name="site_global.css" crc="372437060"/>
-    <file name="master_a-master.css" crc="420711962" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="3968587286" ref="index"/>
-    <file name="nomq_index.css" crc="234636084" ref="index"/>
+    <file name="master_a-master.css" crc="502507698" ref="index:test-page"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:test-page"/>
+    <file name="index.css" crc="146659125" ref="index"/>
+    <file name="nomq_index.css" crc="3838758092" ref="index"/>
+    <file name="test-page.css" crc="447503318" ref="test-page"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="4148063285" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4179431180" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:test-page"/>
+    <file name="museutils.js" crc="4148063285" ref="index:test-page"/>
+    <file name="whatinput.js" crc="86476730" ref="index:test-page"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:test-page"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
     <file name="webpro.js" crc="3986320349" ref="index"/>
     <file name="musewpslideshow.js" crc="405464237" ref="index"/>
     <file name="jquery.museoverlay.js" crc="305414130" ref="index"/>
     <file name="touchswipe.js" crc="221459597" ref="index"/>
-    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:test-page"/>
     <file name="jquery.museresponsive.js" crc="3991890305" ref="index"/>
-    <file name="require.js" crc="4159430777" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index:test-page"/>
   </folder>
   <folder name="images">
     <file name="5-chip.jpg" crc="4136268994" seo="true" ref="index"/>
@@ -27,19 +28,16 @@
     <file name="3-alice - bob.jpg" crc="4130349720" seo="true" ref="index"/>
     <file name="1-bec.jpg" crc="306327100" seo="true" ref="index"/>
     <file name="4-optics table.jpg" crc="4077524716" seo="true" ref="index"/>
-    <file name="arrows-u96-3-fr.png" crc="12196353" ref="index"/>
-    <file name="arrows-u88-3-fr.png" crc="4016700627" ref="index"/>
+    <file name="arrows-u96-3-fr.png" crc="510321268" ref="index"/>
+    <file name="arrows-u88-3-fr.png" crc="3957559845" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="logo white background.png" crc="3852186172" seo="true" ref="index"/>
-    <file name="logo white background_2x.png" crc="529539352" seo="true" ref="index"/>
-    <file name="wigner.png" crc="3771989615" seo="true" ref="index"/>
-    <file name="wigner_2x.png" crc="4253749177" seo="true" ref="index"/>
+    <file name="wigner.png" crc="4253749177" seo="true" ref="index:test-page"/>
     <file name="logo white background380x195.png" crc="4067685382" seo="true" ref="index"/>
-    <file name="logo white background380x195_2x.png" crc="356233924" seo="true" ref="index"/>
     <file name="logo white background265x136.png" crc="245699686" seo="true" ref="index"/>
-    <file name="logo white background265x136_2x.png" crc="4286900818" seo="true" ref="index"/>
-    <file name="arrows-u96-3-fr2.png" crc="4096428195" ref="index"/>
-    <file name="arrows-u88-3-fr2.png" crc="395454119" ref="index"/>
+    <file name="arrows-mn_arrow_left.png" crc="12196353" ref="index"/>
+    <file name="arrows-mn_arrow_right.png" crc="4016700627" ref="index"/>
   </folder>
-  <file name="index.html" crc="3804939652" seo="true" mt="1482304366540" redirect="true"/>
+  <file name="index.html" crc="3783149492" seo="true" mt="1482305601426" redirect="true"/>
+  <file name="test-page.html" crc="3910594932" seo="true" mt="1482305558511" redirect="true"/>
 </manifest>
